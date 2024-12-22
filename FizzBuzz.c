@@ -14,7 +14,7 @@ printf("Buzz\n");
 else if (chiffre % 3 == 0){
 printf("Fizz\n");
 }
-else {
+else{
 	printf("%d\n", chiffre);
 }
 }
