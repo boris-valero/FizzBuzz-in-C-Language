@@ -16,4 +16,4 @@ Through the FizzBuzz exercise, I have learned the following key programming conc
 
 6. Basic Program Structure: I reinforced my understanding of the basic structure of a C program, including including necessary headers, defining the main function, and managing program flow.
 
-These concepts are fundamental in many programming tasks and will serve as a solid foundation for more complex coding challenges in the future. Great job on tackling FizzBuzz! 🚀😊
+These concepts are fundamental in many programming tasks and will serve as a solid foundation for more complex coding challenges in the future.
